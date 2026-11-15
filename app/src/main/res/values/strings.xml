@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">CHRONO-OS 70</string>
+    <string name="header_os_version">CHRONO-OS // 70 v17.4</string>
+    <string name="header_device_profile">MOTO EDGE 70 FUSION // 144HZ POLED</string>
+    <string name="focus_mode_label">FOCUS.LOCK</string>
+    <string name="focus_mode_active">SUPPRESSED</string>
+    <string name="focus_mode_standby">STANDBY</string>
+    <string name="dock_section_title">PRIMARY COMMAND DOCK // PINNED</string>
+    <string name="omni_search_prompt">OMNI.SEARCH // [APP | FILE | CNT]</string>
+    <string name="omni_search_placeholder">TYPE QUERY (E.G. PWR, SPEC, DOC)...</string>
+    <string name="swipe_up_hint">SWIPE UP OR TAP FOR OMNI-TRAY [144HZ SPRING]</string>
+    <string name="sys_config_title">SYS.CONFIG // TELEMETRY &amp; ENGINE</string>
+    <string name="filter_all">ALL</string>
+    <string name="filter_apps">APPS</string>
+    <string name="filter_files">FILES</string>
+    <string name="filter_contacts">CONTACTS</string>
+    <string name="action_call">CALL</string>
+    <string name="action_sms">SMS</string>
+    <string name="action_chat">WA/MSG</string>
+    <string name="action_index_files">+ INDEX SAF FILES</string>
+    <string name="action_sync_contacts">+ SYNC CONTACTS</string>
+    <string name="action_set_default_home">SET DEFAULT HOME</string>
+    <string name="palette_amber">AMBER PHOSPHOR</string>
+    <string name="palette_matrix">CYBER MATRIX</string>
+    <string name="palette_synthwave">SYNTHWAVE HORIZON</string>
+    <string name="palette_industrial">NOTHING / INDUSTRIAL</string>
+    <string name="terminal_cli_title">CHRONO.SHELL // QUICK EXEC</string>
+</resources>

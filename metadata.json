@@ -1,0 +1,6 @@
+{
+  "name": "CHRONO-OS 70",
+  "description": "Distraction-free retro-futuristic Android launcher with unified instant Omni-Search across apps, files, and contacts, hot-swappable phosphor palettes, and live hardware telemetry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
